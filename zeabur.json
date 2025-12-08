@@ -1,7 +1,0 @@
-{
-  "build": {
-    "command": "npm install && hexo generate",
-    "directory": "public"
-  },
-  "static": true
-}
